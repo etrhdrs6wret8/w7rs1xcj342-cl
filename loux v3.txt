@@ -58493,5 +58493,3 @@ setTimeout(() => {
 }, 5000);
 
 Utils.LoadHack();
-alert("Cracked By Agusha, Remove Bug By Xr1d")
-alert("³q¤ßabove FM")
